@@ -38,7 +38,7 @@ Review Ratings
 
 Shipping type
 
-## ❓ Business Questions Answered
+### ❓ Business Questions Answered
 
 This project answers real-world questions such as:
 
@@ -87,7 +87,7 @@ Perform exploratory analysis
 
 📓 Notebook: Customer_Shopping_Behavior_Analysis.ipynb
 
-## 📊 Power BI Dashboard
+### 📊 Power BI Dashboard
 
 An interactive dashboard was created to visualize key insights, including:
 
@@ -105,7 +105,7 @@ Dynamic filters for deeper exploration
 
 Download and open using Power BI Desktop
 
-## 📊 Power BI Dashboard Preview
+### 📊 Power BI Dashboard Preview
 
 ### Dashboard Overview
 ![Dashboard Overview](screenshots/dashboard_overview.png)
@@ -120,7 +120,7 @@ Download and open using Power BI Desktop
 
 🏷️ Discounts do not always mean lower spending
 
-## ▶️ How to Run the Project
+### ▶️ How to Run the Project
 
 Load the dataset into MySQL
 
