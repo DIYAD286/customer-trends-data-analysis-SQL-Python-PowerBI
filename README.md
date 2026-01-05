@@ -68,6 +68,13 @@ Use of CTEs, subqueries, CASE statements, and window functions
 
 📄 File: customer_behavior_sql_queries.sql
 
+
+### ✏️ SQL Column Naming
+For readability and best practices, SQL queries use standardized
+snake_case column names. These are logically mapped from the original
+CSV columns (e.g., `Purchase Amount (USD)` → `purchase_amount`).
+
+
 🐍 Python Usage
 
 Python was used to:
