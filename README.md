@@ -121,6 +121,6 @@ Open the Power BI .pbix file and refresh data
 ## 👩‍💻 Author
 
 Diya
-Data Analytics Enthusiast | SQL • Python • Power BI
+| Data Analytics Enthusiast | SQL • Python • Power BI
 
 🔗 GitHub: https://github.com/DIYAD286
