@@ -10,7 +10,7 @@ This project explores customer shopping behavior to uncover trends related to sp
 
 Using SQL for deep analysis, Python for data handling, and Power BI for visualization, this project demonstrates an end-to-end data analytics workflow: from raw data to business-ready insights.
 
-🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 MySQL – Data storage and querying
 
@@ -22,7 +22,7 @@ Power BI – Interactive dashboards & KPIs
 
 Git & GitHub – Version control & project sharing
 
-📂 Dataset
+### 📂 Dataset
 
 The dataset contains customer shopping information including:
 
@@ -38,7 +38,7 @@ Review Ratings
 
 Shipping type
 
-❓ Business Questions Answered
+## ❓ Business Questions Answered
 
 This project answers real-world questions such as:
 
@@ -54,7 +54,7 @@ This project answers real-world questions such as:
 
 🔁 Are repeat buyers more likely to subscribe?
 
-🧮 SQL Analysis Highlights
+### 🧮 SQL Analysis Highlights
 
 Revenue analysis by gender, age group, and subscription status
 
