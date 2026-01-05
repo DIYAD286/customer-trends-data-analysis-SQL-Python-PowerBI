@@ -110,7 +110,7 @@ Download and open using Power BI Desktop
 ### Dashboard Overview
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 
-## 🚀 Key Insights
+### 🚀 Key Insights
 
 📈 Subscribed customers spend more on average
 
